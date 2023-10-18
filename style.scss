@@ -1,0 +1,500 @@
+$font-title :'Bangers',
+cursiva;
+$font-text :'Roboto',
+sans-serif;
+$font-red : #F21D2F;
+;
+
+html {
+  padding: 0;
+  margin: 0;
+}
+
+
+body {
+
+  background-color: #ffffff;
+}
+
+  header {
+
+    transition: transform 0.3s ease;
+  }
+  .title{
+
+    background-image: url('/IMG/bg1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    height: 40vh;
+
+  }
+
+  .title1{
+    background-image: url('/IMG/banner3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+  }
+
+  .title2{
+
+    background-image: url('/IMG/banner6.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+  }
+
+  .title3{
+
+    background-image: url('/IMG/footer1.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 40vh;
+  }
+
+  .title4{
+
+  background-image: url("https://cdn.marvel.com/content/1x/themarvels_lob_mas_dsk_03.jpg");
+  background-size: 100% 145%;
+   background-repeat: no-repeat;
+   background-position: top;
+   height: 40vh;
+  }
+
+  .title5 {
+    background-image: url("https://cdn.marvel.com/content/1x/guardiansofthegalaxyvol3_lob_mas_dsk_04.jpg");
+    background-size: 105% 130%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 40vh;
+}
+
+.title6{
+  background-image: url("https://images.ctfassets.net/xa93kvziwaye/6F89ou1jUkNvwQAWW8DSrO/8353018e77f1a2aa77f693170dd6189a/hero-image_ant-man-and-the-was-quantumania-competition.jpg");
+  background-size: 100% 130%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+
+
+.title7{
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/846a9086-8a40-43e0-aa10-2fc7d6d73730/dffpobp-1a85ad18-f25e-4f7d-bf47-214ebd877c28.jpg/v1/fill/w_1280,h_500,q_75,strp/black_panther_wakanda_forever___banner_textless_by_mintmovi3_dffpobp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvODQ2YTkwODYtOGE0MC00M2UwLWFhMTAtMmZjN2Q2ZDczNzMwXC9kZmZwb2JwLTFhODVhZDE4LWYyNWUtNGY3ZC1iZjQ3LTIxNGViZDg3N2MyOC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.BNR_Yheyp7pEXbVCoyyMvnk469q-oTFGHcVeyNS-OsM");
+  background-size: 100% 150%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+
+.title8{
+  background-image: url("https://m.media-amazon.com/images/S/aplus-media-library-service-media/ad9a9ae6-3d19-4f5f-9b27-0a82acab5642.__CR0,0,970,300_PT0_SX970_V1___.jpg");
+  background-size: 100% 110%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+
+.title9{
+  background-image: url("https://cdn.shopify.com/s/files/1/0532/6910/2760/files/WhatsApp_Image_2021-12-15_at_1.56.05_PM.jpg?v=1639598289");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+
+.title10{
+  background-image: url("https://www.diariodevenusville.com/wp-content/uploads/2020/03/banner-BLACK-WIDOW.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+.title11{
+  background-image: url("https://m.media-amazon.com/images/S/stores-image-uploads-eu-prod/e/AmazonStores/A1RKKUPIHCS9HS/872edde384c1567f5b8c5c1799d5fdbc.w3000.h600.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+
+.title12{
+  background-image: url("https://media.zonafranca.mx/wp-content/uploads/2019/02/Header_ComingSoon.jpg");
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+.title13{
+  background-image: url("https://www.emp-online.es/dw/image/v2/BBQV_PRD/on/demandware.static/-/Library-Sites-EMPSharedLibrary/default/dw600fc103/68179_CAT_Captain_Marvel.jpg?sw=1400");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+.title14{
+  background-image: url("https://www.lifesize-heroes.com/template/elemente/371/original/black-panther-marvel-lifesize-statue-heroes-super-tchala-lebensgross-figure-banner.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+.title15{
+  background-image: url("https://4.bp.blogspot.com/-nHeGSmKOrj4/WSyJ8hqc0TI/AAAAAAAA3MQ/WUC4nK9spaYDUyibyoYXk3W7NuR7DcPoQCEw/s1600/Marvel%2527s%2BGuardians%2Bof%2Bthe%2BGalaxy%2BVol.%2B2%2BCharacter%2BMovie%2BBanner%2B-%2BDrax.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+.title16{
+  background-image: url("https://static.posters.cz/image/hp/75066.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+.title17{
+  background-image: url("https://i.redd.it/mcu-shows-made-by-marvel-studios-in-twitter-header-size-v0-9m9f1gt88qx91.jpg?width=2740&format=pjpg&auto=webp&s=bb7758f1399c40b8ff30807097270600b2798ad2");
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+
+.title18{
+  background-image: url("https://www.novacinemas.cr/wp-content/uploads/2022/06/banner_Thor_nota.jpg");
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40vh;
+}
+
+.title19{
+  background-image: url("https://kneelbeforeblog.co.uk/wp-content/uploads/2015/04/Iron-Man-2-Banner-USA-01-Cropped.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+.title20{
+  background-image: url("https://cdn.marvel.com/content/1x/theincrediblehulk_lob_mas_dsk_03.jpg");
+  background-size: 100% 120%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+.title21{
+  background-image: url("https://www.underscores.fr/images/2010/09/iron-man-banner.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 40vh;
+}
+
+
+  .letter-animation {
+    display: inline-block;
+    opacity: 0;
+    transform: translateX(5em);
+    animation: appear 1s forwards ease-out;
+  }
+
+  @keyframes appear {
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  h1 {
+    font-family: $font-title;
+    font-size: 60px !important;
+    background-color: $font-red;
+    letter-spacing: 5px;
+  }
+
+  #miNav {
+
+    font-family: $font-text;
+    font-family: $font-text;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    z-index: 1000;
+    transition: transform 0.3s ease;
+
+
+    a {
+
+      color: #0D6EFD;
+
+      &:hover {
+
+        color: #063985;
+      }
+    }
+  }
+
+
+
+.name{
+
+  font-family: $font-text;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.coment{
+
+  font-family: $font-text;
+  font-size: 1em;
+
+}
+
+
+#formulario{
+
+  font-family: $font-text;
+  font-size: 1em;
+}
+
+
+.container{
+
+ h2{
+  background: $font-red;
+  font-family: $font-title;
+  letter-spacing: 3px;
+}
+
+a{
+
+  text-decoration: none;
+}
+}
+
+
+.card-body button {
+
+  background-color: $font-red;
+  color: #fff;
+
+  &:hover {
+
+    color: #fff;
+  }
+}
+
+.video {
+
+  font-family: $font-text;
+  margin-top: 0 auto;
+  text-align: center;
+}
+
+.items {
+
+  background-color: $font-red;
+}
+
+.carousel-item h3{
+
+  font-family: $font-title;
+  letter-spacing: 1.5px;
+}
+
+.carousel-item p {
+
+  font-family: $font-text;
+  padding: 10px;
+}
+
+
+img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+
+}
+
+.nombreP {
+
+  font-size: 1em;
+  font-family: $font-text;
+  font-weight: 700;
+}
+
+.lista {
+
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  position: relative;
+  transition: transform 0.5s ease;
+}
+
+.modal-title {
+
+  font-family: $font-title;
+}
+
+
+.modal-body p {
+
+  font-family: $font-text;
+}
+
+.modal-body h4 {
+
+  font-family: $font-title;
+  margin-top: 15px;
+
+}
+
+.btn {
+
+  font-family: $font-text;
+  font-weight: 700;
+}
+
+.card-comic {
+  height: 430px;
+  cursor: pointer;
+}
+
+.card-comic {
+
+  position: relative;
+  transition: transform 0.5s ease;
+}
+
+
+
+.card-comic:hover,
+.lista:hover {
+  transform: scale(1.1);
+}
+
+.movie{
+
+  font-family: $font-text;
+  font-weight: 700;
+}
+
+
+
+.card-movie {
+ 
+  height: 466px;
+  margin-bottom: 20px;
+  background-color: white;  
+  position: relative;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+  
+  p{
+
+    font-size: 14px;
+    color: #000;
+    font-weight: 700;
+  }
+
+  span{
+    color: #0D6EFD;
+  }
+  
+
+
+}
+
+.img-card{
+
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12), 0 5px 10px rgba(0, 0, 0, 0.24);
+}
+
+.img-card:hover {
+  transform: scale(1.02);
+  
+}
+
+.videos{
+
+  font-family: $font-text;
+  font-weight: 700;
+}
+
+.carousel-control-prev .carousel-control-prev-icon,
+.carousel-control-next .carousel-control-next-icon {
+    background-color: $font-red;
+     border: 3px solid #fff;
+  
+}
+
+footer {
+  font-family: $font-text;
+  color: #fff;
+  border-top: 1px solid #ccc;
+  font-weight: 700;
+
+  li {
+
+    list-style: none;
+  }
+
+  i {
+
+    font-size: 50px;
+  }
+}
+
+
+@media (max-width: 1196px){
+  iframe{
+
+    width: 300px;
+  }
+}
+
+@media (max-width: 986px){
+  iframe{
+
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px){
+  iframe{
+
+    width: 100%;
+  }
+}
+
+@media (max-width: 449px){
+  h1{
+
+    font-size: 45px !important;
+  }
+}
+
+
+@media (max-width: 354px){
+  h1{
+
+    font-size: 35px !important;
+  }
+}
+
+
+
+
+
+
+
